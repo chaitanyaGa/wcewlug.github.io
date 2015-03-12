@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Open Source and FOSS"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2014-08-08T15:39:55-04:00
+---
+
+
+## Open Source
+
+### What is Open Source?
+
+It refers to broad area apart from just Information Technology.The term advocates for collaborative work and development in any field.
+Open source software is made by many people, and distributed under licenses that comply with the Open Source Definition.
+open source refers to a computer program in which the source code is available to the general public for use and/or modification from its original design.
+Open-source code is meant to be a collaborative effort, where programmers improve upon the source code and share the changes within the community. Typically this is not the case, and code is merely released to the public under some license. Others can then download, modify, and publish their version (fork) back to the community. Today you find more forked versions, than teams with large membership.
+
+Some Projects in Open Source:
+
+Apache Hadoop  
+Apache HTTP  
+SuSE  
+Red Hat  
+MySQl  
+KDE  
+GNOME  
+Eclipse  
+
+Software can be seen as:  
+ knowledge  
+ product  
+ tool / platform  
+
+###How to Participate?
+1.Work on something you need, chances are,
+ every other developer needs it too!  
+2. Fix a bug that annoys you.  
+3. Write or improve a documentation that you
+can't find.  
+4. Solve a problem that you have.  
+5. Find something you want to do, that gets you
+excited  
+6. Nothing beats doing what you like  
+7. Search the repositories for projects that
+match what you want  
+8. Search for projects that take you where you
+want to go  
+9. Yes, it is all about YOU!  
+10. Good programmers know what to write.
+Great ones know what to rewrite(and reuse)  
+11. Open source is not about licenses...
+open source is all about being a great developer!  
+12. Open source is about the source code is learning from others
+ is learning how to build on top of what others did
+ is learning how to let others build on what you did!  
+###What is FOSS?
+Free and Open Source Software(FOSS) is a software which is licensed to give users the right to study, copy, modify, improve and redistribute it. In the context of free software, the word 'free' refers to free as in freedom and not the price of the software.  
+
+Walchand Linux Users' Group at Walchand college strive for contributing the Open Source. We oragnize workshops for giving training in Open Source Softwares and technology.With our motto community knowledge share, we strive to spread Open source knowledge to community.
+
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com

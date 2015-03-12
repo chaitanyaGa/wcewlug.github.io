@@ -15,9 +15,10 @@ The event for newbies to open source technology. Get the rudiments about Linux w
 
 The Mega Event organised in first semester of academic year.2 day workshop for Open Source Technologies like python,shell scripting,Ubuntu Customization Kit and many more topics related to Linux,Networking and Administration.
 
-##Techno-tweet
+##<a href = "Techno-Tweet.html" >Techno-tweet</a>
 
-The Mega Event organised in Second semester of academic year.2 day workshop for Exciting open Source Technologies like Drupal,wordpress,Android,Bootstrap etc.
+The Mega Event organised in Second semester of academic year.2 day workshop for Exciting open Source Technologies like Drupal,wordpress,Android,Bootstrap etc.    
+<a href = "Techno-Tweet.html">Read more...</a>
 
 ##Club Service
 
